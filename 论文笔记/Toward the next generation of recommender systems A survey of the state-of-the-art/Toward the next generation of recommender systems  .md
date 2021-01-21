@@ -1,4 +1,5 @@
-# <推荐系统论文阅读系列>1. 一篇经典的综述
+# <推荐系统论文阅读系列>
+## 1. 一篇经典的综述
 简介：第一篇为Adomavicius G, Tuzhilin A. **Toward the next generation of recommender systems: A survey of the state-of-the-art and possible extensions**[J]. Knowledge and Data Engineering, IEEE Transactions on, 2005, 17(6): 734-749.。
 
 这是一篇综述类的论文，被称为推荐系统最经典的综述论文之一。虽然是比较老的一篇文章，里面提到的对推荐系统的展望有很多在现在已经被研究了，但仍是入门推荐系统必读的一篇经典论文。本文主要包含两部分：对当时技术的总结和对推荐系统发展的看法。
@@ -108,7 +109,7 @@ hybrid recommendation: These methods combine collaborative and content-based met
 
 ### 4. 对不同推荐系统的分类
 
-![1611222996(1)](\1611222996(1).png)
+(![image](https://github.com/Neocw/NLP_notebook/blob/main/%E8%AE%BA%E6%96%87%E7%AC%94%E8%AE%B0/Toward%20the%20next%20generation%20of%20recommender%20systems%20A%20survey%20of%20the%20state-of-the-art/1611222996(1).png))
 
 ## 二、Extending Capabilities of Recommender Systems
 1. 全面了解用户和物品
